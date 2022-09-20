@@ -1,0 +1,3 @@
+returnType nameOfMethod() {
+//Method body
+}
